@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poc-tool-revamp/static/css/main.31d6cfe0.css",
+    "main.js": "/poc-tool-revamp/static/js/main.37004e34.js",
+    "static/js/787.b0823f7d.chunk.js": "/poc-tool-revamp/static/js/787.b0823f7d.chunk.js",
+    "static/media/login_img.png": "/poc-tool-revamp/static/media/login_img.a2ef1340731bcd0bfde7.png",
+    "index.html": "/poc-tool-revamp/index.html",
+    "main.37004e34.js.map": "/poc-tool-revamp/static/js/main.37004e34.js.map",
+    "787.b0823f7d.chunk.js.map": "/poc-tool-revamp/static/js/787.b0823f7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.37004e34.js"
+  ]
+}
